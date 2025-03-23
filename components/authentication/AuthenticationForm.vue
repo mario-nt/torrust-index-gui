@@ -28,6 +28,13 @@
           </NuxtLink>
         </div>
       </div>
+      <div class="relative mt-1">
+        <div class="relative flex justify-center text-sm">
+          <NuxtLink to="/password-reset">
+            Forgot password?
+          </NuxtLink>
+        </div>
+      </div>
     </div>
   </div>
 </template>
